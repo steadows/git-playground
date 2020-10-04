@@ -1,8 +1,9 @@
 This is a file
 It has a bunch of lines
-Line 1
+AAAAAAAAAAAAAAAAAAAAAAAAAABBBBBB
+Line 1 has been edited
 Line 2
-Java is lame
+Java is ok
 C is good
 Python is awesome
 winter is coming
