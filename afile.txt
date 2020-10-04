@@ -1,10 +1,6 @@
 This is A NEW LINE ENTIRELY
 
-<<<<<<< HEAD
 What is this all about??! - "LINE 1"
-=======
-What is this all about??! - THIS IS A NEW LINE
->>>>>>> mergedemo
 Hello! 
 
 really doe! "LINE 2"
