@@ -1,9 +1,8 @@
 This is a file
 It has a bunch of lines
-Line 1
+edit, changed "line 1"
 Line 2
 Java is lame
-C is good
 Python is awesome
 winter is coming
 
