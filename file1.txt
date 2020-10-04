@@ -1,8 +1,16 @@
 This is a file
 It has a bunch of lines
+<<<<<<< HEAD
 edit, changed "line 1"
 Line 2
 Java is lame
+=======
+AAAAAAAAAAAAAAAAAAAAAAAAAABBBBBB
+Line 1 has been edited
+Line 2
+Java is ok
+C is good
+>>>>>>> mergedemo
 Python is awesome
 winter is coming
 
